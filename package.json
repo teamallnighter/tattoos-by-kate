@@ -1,0 +1,20 @@
+{
+  "name": "tat2sbykate",
+  "version": "0.0.1",
+  "description": "Tattoo Artist Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "ntl deploy --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamallnighter/tattoos-by-kate.git"
+  },
+  "author": "Chris Connelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamallnighter/tattoos-by-kate/issues"
+  },
+  "homepage": "https://github.com/teamallnighter/tattoos-by-kate#readme"
+}
